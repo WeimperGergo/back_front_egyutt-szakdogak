@@ -1,0 +1,12 @@
+# backend
+szakdogak_b/vendor
+szakdogak_b/storage
+szakdogak_b/.env
+
+# frontend
+szakdogak_f/node_modules
+szakdogak_f/.env
+
+# General
+.DS_Store
+*.log
