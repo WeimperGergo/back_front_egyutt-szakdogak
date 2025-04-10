@@ -5,7 +5,6 @@ szakdogak_b/.env
 
 # frontend
 szakdogak_f/node_modules
-szakdogak_f/.env
 
 # General
 .DS_Store
